@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yogesh Kumar @yrkarma
-- 👀 I’m interested in Data Science, Python, AI & Machine Learning
-- 🌱 I’m currently pursuing Master of Computer Application
-- 💞️ I’m looking to collaborate on any Data Science and Machine Learning projects
+- 👀 I’m interested in Data Science, Python, AI & Machine Learning, Web Applications, EdTech, Web Development and Entrepreneurship.
+- 🌱 I have completed my Master of Computer Application in 2022.
+- 💞️ I’m looking to collaborate on any Data Science, Machine Learning, Web Apps, Edtech and IT Business projects
 - 📫 Reach me at https://www.linkedin.com/in/yrkarma
 
 <!---
